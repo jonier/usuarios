@@ -25,4 +25,9 @@ if(isset($_GET["controller"])){
     //exit;
     lanzarAccion($controllerObj);
 }
+/*
+	Problema de urgencia resuelto
+	
+*/	
+
 ?>
