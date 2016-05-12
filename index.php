@@ -1,5 +1,10 @@
 <?php
 /*
+	ESTOS SON COMENTARIOS PARA EL USUARIO ISS53 DE GIT
+
+*/
+
+/*
 //echo"<pre>";
 //print_r($_SERVER['HTTP_USER_AGENT']);
 //print_r($GLOBALS);
