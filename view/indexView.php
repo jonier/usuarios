@@ -39,7 +39,7 @@
                 <?php echo $user->id; ?> -
                 <?php echo $user->nombre;?> -
                 <?php echo $user->apellido;  ?> -
-                <?php echo $user->email;  ?>
+                <?php echo $user->email."SEGUNDO COMMIT".;  ?>
                 <div class="right">
                     <a href="<?php echo $helper->url("usuarios","borrar"); ?>&id=<?php echo $user->id; ?>" class="btn btn-danger">Borrar</a>
                 </div>
