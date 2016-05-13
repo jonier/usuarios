@@ -35,7 +35,6 @@ if(isset($_GET["controller"])){
 /*
 	Problema de urgencia resuelto
 	probando comando git
-	PRIMER COMMIT
 */	
 
 ?>
