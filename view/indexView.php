@@ -38,7 +38,7 @@
             <?php foreach($allusers as $user) {?>
                 <?php echo $user->id; ?> -
                 <?php echo $user->nombre;?> -
-                <?php echo $user->apellido."-21-22-".;  ?> -
+                <?php echo $user->apellido;  ?> -
                 <?php echo $user->email;  ?>
                 <div class="right">
                     <a href="<?php echo $helper->url("usuarios","borrar"); ?>&id=<?php echo $user->id; ?>" class="btn btn-danger">Borrar</a>
